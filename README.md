@@ -1,2 +1,14 @@
 # washitsu-db
-AI-assisted storage and indexing system for room inventory management
+
+部屋の収納・アイテム管理用データベース（AI連携）
+
+## 構成
+S → 大枠（場所）
+T → 中間（棚・引き出し）
+C → ケース
+I → アイテム
+
+## ルール
+- 追加のみ（上書きしない）
+- IDで管理する
+- わからないものはそのまま残す
