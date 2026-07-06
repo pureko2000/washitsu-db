@@ -1,0 +1,7 @@
+git status
+
+git add .
+
+git commit -m "今日の作業"
+
+git log --oneline
